@@ -1,4 +1,4 @@
-# Internal Assistant 🚀
+# Internal Assistant 
 
 This project is an implementation of an **Internal Assistant** using **LangChain**, **FastAPI**, **Azure Services**, and several custom modules to manage features such as RAG (Retrieval-Augmented Generation) and project progress tracking.
 
