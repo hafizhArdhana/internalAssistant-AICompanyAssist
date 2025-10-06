@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+langchain
+langchain-community
+langchain-openai
+azure-identity
+azure-search-documents
+azure-storage-blob
+azure-ai-formrecognizer
+sqlalchemy
+pyodbc
+requests
