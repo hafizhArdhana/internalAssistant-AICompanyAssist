@@ -14,7 +14,6 @@ This project is an implementation of an *Internal Assistant* using *LangChain, *
 ├── rag_modul/                   # Logic for RAG feature
 ├── progressProject_modul.py     # Logic for ProgressProject feature
 ├── to_do_modul_test.py          # Logic for Project Progress feature (testing)
-├── .env                         # API keys & environment variables
 ├── .gitignore                   # Prevent sensitive/unnecessary files from being pushed
 ├── createQdrantCollections      # Make new collection to qdrant database
 ├── memory_manager.py            # Integrate cosmosDB and Azure cache for redis to save chat history
